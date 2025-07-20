@@ -133,7 +133,7 @@ p {
 
 .btn-primary {
   background-color: var(--color-primary);
-  color: white;
+  color: #ffffff;
 }
 
 .btn-primary:hover {
